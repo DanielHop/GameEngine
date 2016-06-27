@@ -1,0 +1,8 @@
+﻿  PlayerController.cpp
+  MyScript.cpp
+  EnemyController.cpp
+  BulletScript.cpp
+  Main.cpp
+  Test.cpp
+  Generating Code...
+  TestGame.vcxproj -> C:\Programming\CPP\GameEngine\DirectGameEngine\Debug\TestGame.exe
